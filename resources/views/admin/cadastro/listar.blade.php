@@ -2,7 +2,7 @@
 @extends('admin.layouts.principal')
 
 {{-- Section para o titulo --}}
-@section('titulo','Cursos')
+@section('titulo','Cadastro')
 
 {{-- Section para a acao --}}
 @section('acao', 'Listar')
@@ -15,7 +15,7 @@
 
 <table class="table table-hover">
     <tr>
-        <td>Sistemas de Informação</td>
+        <td>Cadastro funcionario</td>
         <td class="d-flex justify-content-end">
 
             <span class="btn btn-info btn-sm" title="Editar">

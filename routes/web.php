@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/admin/cursos', 'CursoController@listar');
-Route::get('/admin/cursos/adicionar', 'CursoController@adicionar');
+Route::get('/admin/cadastro', 'CadastroController@listar');
+Route::get('/admin/cadastro/adicionar', 'CadastroController@adicionar');

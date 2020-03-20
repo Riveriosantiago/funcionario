@@ -1,6 +1,6 @@
 <footer>
     <div class="text-center py-3 small">
-        2020 IFNMG Pirapora - Programação Web II
+        RH 2000 - SOLUÇÃO EM GESTÃO DE PESSOAS
     </div>
 </footer>
 

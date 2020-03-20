@@ -1,6 +1,6 @@
 @extends('admin.layouts.principal')
 
-@section('titulo', 'Cursos')
+@section('titulo', 'Cadastro')
 
 @section('acao', 'Formulário')
 
@@ -9,7 +9,7 @@
     <form method="post" action="">
 
         <div class="form-group">
-            <label for="nome">Nome</label>
+            <label for="nome">Nome funcionario</label>
             <input id="nome" class="form-control" type="text" name="nome">
         </div>
 

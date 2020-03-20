@@ -1,21 +1,19 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">IF - Admin</a>
+    <a class="navbar-brand" href="#">RH - ADMINISTRAÇÃO</a>
 
     <ul class="navbar-nav">
         <li class="nav-item">
-            <a href="" class="nav-link">Cursos</a>
+            <a href="" class="nav-link">Cadastro de funcionário</a>
         </li>
         <li class="nav-item">
-            <a href="" class="nav-link">Turmas</a>
+            <a href="" class="nav-link">Setor</a>
         </li>
         <li class="nav-item">
-            <a href="" class="nav-link">Matrizes</a>
+            <a href="" class="nav-link">Função</a>
         </li>
         <li class="nav-item">
-            <a href="" class="nav-link">Alunos</a>
+            <a href="" class="nav-link">Turno</a>
         </li>
-        <li class="nav-item">
-            <a href="" class="nav-link">Matrículas</a>
-        </li>
+
     </ul>
 </nav>

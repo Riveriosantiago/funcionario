@@ -7,7 +7,7 @@
     <div class="mt-3">
         <h3>
             @yield('titulo')
-            <small class="text-muted">@yield('acao')</small>
+            <small class="text-muted">@yield('cadastro')</small>
         </h3>
     </div>
 

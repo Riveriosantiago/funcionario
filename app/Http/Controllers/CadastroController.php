@@ -4,15 +4,15 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class CursoController extends Controller
+class CadastroController extends Controller
 {
     public function listar()
     {
-        return view('admin.cursos.listar');
+        return view('admin.cadastro.listar');
     }
 
     public function adicionar()
     {
-        return view('admin.cursos.form');
+        return view('admin.cadastro.form');
     }
 }
